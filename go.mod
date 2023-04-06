@@ -1,4 +1,4 @@
-module uuid2base64
+module github.com/555f/uuid2base64
 
 go 1.19
 
