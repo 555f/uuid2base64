@@ -3,7 +3,7 @@
 ## Install 
 
 ```sh
-go install github.com/555f/uuid2base64@latest
+go install github.com/555f/uuid2base64@v1.0.0
 ```
 
 ## How use?
